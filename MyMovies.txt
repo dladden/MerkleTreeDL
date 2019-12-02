@@ -1,0 +1,16 @@
+1, Karl Urban, Judge Dredd, Dredd
+2, Guy Pearce, Exley, LA Confidential
+3, Russel Crow, Maximus, Gladiator
+4, Eric Bana, Hector, Troy
+5, Robert De Niro, Neil, HEAT
+6, Jack Nicholson, Frank Costello, The Departed
+7, Harrison Ford, Deckard, Blade Runner
+8, Daniel Craig, Bond, Skyfall
+9, Tom Hardy, Reginald and Ronnie Kray, Legend
+10, Denzel Washington, Eli, The book of Eli
+11, Hugo, V, V for Vandeta
+12, Charlie Hunnam, King Arthur, King Arthur: Legend of the Sword
+13, Christian Bale, Batman Wayne, Dark knight
+14, Dev Patel, Saroo, Lion
+15, Omar Sy, Driss, The Untouchables
+16, Remy, Ratatouille
